@@ -1,0 +1,17 @@
+{
+  "name": "qa_cademy_cypressdiscovery",
+  "version": "1.0.0",
+  "description": "Cypress Discovery - QA Cademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Bruno G. Siqueira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
